@@ -38,9 +38,17 @@ body {
     padding: 0;
     text-align: left;
     border: 2px solid #DDD;
-    margin: 0 auto;
+    margin: 0;
 }
 
 #container h1 {
     font-size: 30px;
+}
+
+#footer {
+    color: white;
+    background: #777;
+    padding: 0.5em;
+    text-align: center;
+    margin: 0;
 }
